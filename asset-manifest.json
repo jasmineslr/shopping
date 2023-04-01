@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https;//jasmineslr.github.io/shopping/static/css/main.fda2b8ac.css",
-    "main.js": "/https;//jasmineslr.github.io/shopping/static/js/main.18bf1a3b.js",
-    "static/media/Samim.eot": "/https;//jasmineslr.github.io/shopping/static/media/Samim.40750f276b98d5349fa5.eot",
-    "static/media/Samim.ttf": "/https;//jasmineslr.github.io/shopping/static/media/Samim.abbffc8aa79d149234ba.ttf",
-    "static/media/Samim.woff": "/https;//jasmineslr.github.io/shopping/static/media/Samim.a6338e0951bd9771bde3.woff",
-    "index.html": "/https;//jasmineslr.github.io/shopping/index.html",
-    "main.fda2b8ac.css.map": "/https;//jasmineslr.github.io/shopping/static/css/main.fda2b8ac.css.map",
-    "main.18bf1a3b.js.map": "/https;//jasmineslr.github.io/shopping/static/js/main.18bf1a3b.js.map"
+    "main.css": "/shopping/static/css/main.c551ef3f.css",
+    "main.js": "/shopping/static/js/main.18bf1a3b.js",
+    "static/media/Samim.eot": "/shopping/static/media/Samim.40750f276b98d5349fa5.eot",
+    "static/media/Samim.ttf": "/shopping/static/media/Samim.abbffc8aa79d149234ba.ttf",
+    "static/media/Samim.woff": "/shopping/static/media/Samim.a6338e0951bd9771bde3.woff",
+    "index.html": "/shopping/index.html",
+    "main.c551ef3f.css.map": "/shopping/static/css/main.c551ef3f.css.map",
+    "main.18bf1a3b.js.map": "/shopping/static/js/main.18bf1a3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fda2b8ac.css",
+    "static/css/main.c551ef3f.css",
     "static/js/main.18bf1a3b.js"
   ]
 }
